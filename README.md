@@ -63,7 +63,8 @@ The datasets correspond to commercial cylindrical lithium-ion cells:
 If you use these datasets, please cite the associated manuscript:
 
 > [Authors], “A Sub-mΩ Galvanostatic Electrochemical Impedance Spectroscope for Wide Frequency Battery Characterisation,” submitted to *RSC Batteries*.  
-> (Add DOI here once available.)
+> (Add DOI as well once available.)
+> We will try to keep this file updated. 
 
 ---
 
