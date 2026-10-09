@@ -17,8 +17,6 @@ BANDS = (("20 mHz -- 1 Hz", 0.0, 1.0),
          ("1 -- 100 Hz", 1.0, 100.0),
          ("100 Hz -- 1 kHz", 100.0, 1000.0),
          ("1 -- 10 kHz", 1000.0, 10001.0))
-
-
 def load(cell):
     """Return the validation sweep for one cell as a DataFrame."""
     d = pd.read_csv(RAW / f"{cell}_pointwise.csv")
