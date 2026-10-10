@@ -20,7 +20,7 @@ authors:
     affiliation: "Oak Ridge National Laboratory, Tennessee, USA"
 license: MIT
 license-url: "https://opensource.org/licenses/MIT"
-repository-code: "https://github.com/ORG/REPO"
+repository-code: "https://github.com/optibikash/EIS_set_up_validation"
 keywords:
   - electrochemical impedance spectroscopy
   - lithium-ion battery
